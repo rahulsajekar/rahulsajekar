@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 
 
 ### Tools and Languages
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="22px">
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="30px">
+<img src="https://svn.python.org/www/branches/rest2web/beta.python.org/resources/design/logo/python-logo-master-flat.png" height="30px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px">
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="30px">
