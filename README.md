@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Automation Testing
+- 🌱 I’m currently learning Software Testing in Java
 
-<p>Undergraduate from Information Technology..
+### Connect With Me
+
+
+### Tools and Languages
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="22px">
