@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ### Tools and Languages
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="30px" style="margin-right:15px;">      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAfrL-XVYc3kmLM4dmBEwnzBuEBizJ2so-Aw&usqp=CAU" height="30px" style="margin-right:15px;"><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px" style="margin-right:15px;"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="30px" style="margin-right:15px;">
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="30px""><p>   </p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAfrL-XVYc3kmLM4dmBEwnzBuEBizJ2so-Aw&usqp=CAU" height="30px"><p>   </p><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30px" ><p>   </p><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="30px">
